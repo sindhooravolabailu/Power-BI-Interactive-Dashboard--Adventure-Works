@@ -25,12 +25,12 @@ Enhance the user experience with bookmarks and drillthroughs, allowing users to 
 
 ## Getting Started:
 
-## Prerequisites:
+- Prerequisites:
 Ensure you have the latest version of Power BI Desktop installed.
 
-## Installation:
-- Clone this repository to your local machine.
-- Open the Adventure Works Power BI file in Power BI Desktop.
+- Installation:
+Clone this repository to your local machine.
+Open the Adventure Works Power BI file in Power BI Desktop.
 
 ## Usage:
 Explore different dashboards and visualizations.
